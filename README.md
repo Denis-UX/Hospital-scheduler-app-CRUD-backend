@@ -1,0 +1,2 @@
+# Hospital-scheduler-app-CRUD-backend
+This program can make patients with day of visitation, worries, diagnostic, medication, name and ID number of patient. Reads and writes data to json file. It can updata, delete and add data. Some functionality includes: showind most common diagnostic, showing all data by patient, showing patient who visited last month and showing information for patients with worries.
